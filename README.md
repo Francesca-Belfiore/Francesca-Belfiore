@@ -3,6 +3,8 @@
 <!--
 **Francesca-Belfiore/Francesca-Belfiore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![welcome image](https://icons8.com/illustrations/author/5e7e24ce01d0360013bb7479)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
