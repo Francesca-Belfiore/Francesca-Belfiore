@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi there 👋</h1>
 
-<p align="center">My name is Francesca Belfiore! I'm a front-end web-developer in training with a passion for art and UI/UX design!</p>
+<p>My name is Francesca Belfiore! I'm a front-end web-developer in training with a passion for art and UI/UX design!</p>
 
 <div>Things I can do:
 
