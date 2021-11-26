@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <img src="https://images.unsplash.com/photo-1500576992153-0271099def59?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80" align="center" width="500px">
 
-<img src="https://www.vecteezy.com/free-vector/nature" alt="Nature Vectors by Vecteezy" align=center>
+<img src="https://www.vecteezy.com/vector-art/1895533-kawaii-cute-fox-mascot" alt="kawaii cute fox mascot Vectors by Vecteezy" align="center">
 My name is Francesca Belfiore! I'm a front-end web-developer in training with a passion for art and UI/UX design!
 
 - miao
