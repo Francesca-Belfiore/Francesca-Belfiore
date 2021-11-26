@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
 <!--
 **Francesca-Belfiore/Francesca-Belfiore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 <!-- <img src="https://images.unsplash.com/photo-1500576992153-0271099def59?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80" align="center" width="500px"> -->
 
 <p align="center">
-  <img width="460" height="300" src="https://pa1.narvii.com/6593/62e2a11c5bf52a5bf207cc120d8a4d34c63b8345_hq.gif" align="center">
+  <img width="460" height="280" src="https://pa1.narvii.com/6593/62e2a11c5bf52a5bf207cc120d8a4d34c63b8345_hq.gif" align="center">
 </p>
-<p>My name is Francesca Belfiore! I'm a front-end web-developer in training with a passion for art and UI/UX design!</p>
+<p align="center">My name is Francesca Belfiore! I'm a front-end web-developer in training with a passion for art and UI/UX design!</p>
 
-<div align="center">Things I can do:
+<div>Things I can do:
 
   - [x] HTML
   - [x] Css
