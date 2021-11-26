@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img width="460" height="280" src="https://pa1.narvii.com/6593/62e2a11c5bf52a5bf207cc120d8a4d34c63b8345_hq.gif" align="center">
+  <img width="460" height="250" src="https://pa1.narvii.com/6593/62e2a11c5bf52a5bf207cc120d8a4d34c63b8345_hq.gif" align="center">
 </p>
 
 <h1 align="center">Hi there 👋</h1>
