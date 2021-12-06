@@ -33,6 +33,7 @@ Here are some ideas to get you started:
   - [x] HTML
   - [x] Css
   - [x] Javascript
+  - [x] Node
   - [ ] React
   - [ ] Sass
 </div>
