@@ -35,7 +35,7 @@ I also love videogames, cat pictures, memes, foxes and bad jokes...
 
 - 👨‍💻 All of my projects are available [here!](https://github.com/Francesca-Belfiore)
 
-- ⚡ Fun fact **My surname means Beautiful Flower, <i>howdy?</i>** 🌻
+- ⚡ Fun fact: **My surname means Beautiful Flower, <i>howdy?</i>** 🌻
 
 <h3 align="left">📫 Connect with me:</h3>
 <p><a href="https://linkedin.com/in/francescabelfiore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francescabelfiore" height="30" width="40" /></a>
